@@ -25,16 +25,16 @@ li {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 119px;
-    background: #dde1e7;
-    box-shadow: 5px 5px 10px #717376, -5px -5px 10px #ffffff;
+    border-radius: 59px;
+    background: linear-gradient(145deg, #ecf1f7, #c7cbd0);
+    box-shadow: 9px 9px 18px #b7bbc0, -9px -9px 18px #ffffff;
 }
 
 li:hover {
     cursor: pointer;
-    border-radius: 119px;
-    background: #dde1e7;
-    box-shadow: inset 5px 5px 10px #717376, inset -5px -5px 10px #ffffff;
+    border-radius: 59px;
+    background: #DDE1E7;
+    box-shadow: inset 9px 9px 18px #b7bbc0, inset -9px -9px 18px #ffffff;
 }
 
 i {
